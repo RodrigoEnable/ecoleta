@@ -1,4 +1,4 @@
-![Ecoleta-Logo](https://github.com/RodrigoEnable/ecoleta/blob/master/ecoleta.svg)
+![Ecoleta-Logo](https://github.com/RodrigoEnable/ecoleta/blob/main/ecoleta.svg)
 
 ## Participação na Next Level Week 1
 Foi produzido no evento a versão web e mobile do Ecoleta, uma aplicação para cadastro de pontos de coleta de recicláveis. O evento ocorreu de 31 de Maio a 6 de Junho. Todos os recursos empregados nesse projeto estão listados abaixo.
